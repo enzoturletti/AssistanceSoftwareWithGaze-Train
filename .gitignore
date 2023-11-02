@@ -1,0 +1,8 @@
+/dataset/
+/output_preproccess/
+/output_train/
+/output_evaluation/
+/model/__pycache__/
+/utils/__pycache__/
+output_preproccess.zip
+/data/
